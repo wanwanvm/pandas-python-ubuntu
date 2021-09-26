@@ -1,0 +1,14 @@
+Install beberapa Library
+
+conda install openpyxl-> Excel
+conda install xlrd -> Excel
+conda install lxml -> HTML
+
+conda install html5lib ->HTML
+conda install BeautifulSoup4 ->HTML
+conda install Sqlalchemy ->Sql
+
+https://www.megabagus.id/
+2. Kemudian hapus package brltty karena kemungkinan akan crash dengan port komunikasi serial.
+$ sudo apt-get remove brltty
+https://www.yudana.id/contoh-penerapan-algoritma-sorting-dengan-menggunakan-python/
